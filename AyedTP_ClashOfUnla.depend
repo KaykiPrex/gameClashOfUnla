@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1562356132 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\game.cpp
+	"Game.h"
+
+1562347620 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\game.h
+	"SDL_mixer.h"
+	<time.h>
+	"lista.h"
+	"Tren.h"
+	"Moneda.h"
+	"Bandido.h"
+	"Mina.h"
+	"Textura.h"
+	"Mapa.h"
+	"AdministrarEventos.h"
+	"AdministrarTiempos.h"
+	"AdministrarMonedas.h"
+	"AdministrarBandidos.h"
+	"archivos.h"
+	<cstdlib>
+	"stdio.h"
+	<sstream>
+
+1560401770 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\lista.cpp
+	"Lista.h"
+
+1560401876 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\lista.h
+	"Vagon.h"
+
+1562348304 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\main.cpp
+	"Game.h"
+
+1562334890 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\tren.h
+	"lista.h"
+	"Mapa.h"
+	"AdministrarTiempos.h"
+	"Vagon.h"
+	<stdlib.h>
+	<cstdlib>
+	"stdio.h"
+	<sstream>
+
+1562299119 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\tren.cpp
+	"Tren.h"
+
+1562333101 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\moneda.h
+	"SDL.h"
+
+1559083212 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\moneda.cpp
+	"Moneda.h"
+
+1561922052 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\bandido.cpp
+	"Bandido.h"
+
+1562330991 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\bandido.h
+	"SDL.h"
+
+1561736693 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\mina.cpp
+	"Mina.h"
+
+1562332454 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\mina.h
+	"Cola.h"
+	"Caja.h"
+
+1561735846 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\caja.cpp
+	"Caja.h"
+
+1562331306 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\caja.h
+
+1562281418 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\vagon.cpp
+	"Vagon.h"
+
+1562336000 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\vagon.h
+	"SDL.h"
+	"Caja.h"
+	"Pila.h"
+
+1558815541 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\textura.cpp
+	"Textura.h"
+
+1562337253 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\textura.h
+	<string>
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+
+1562337379 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\mapa.h
+
+1338168394 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\cola.cpp
+	"Cola.h"
+
+1339042304 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\cola.h
+
+1561747196 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrareventos.cpp
+	"AdministrarEventos.h"
+
+1562341245 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrareventos.h
+	"SDL.h"
+	"Game.h"
+	"Tren.h"
+	"AdministrarTiempos.h"
+
+1562342387 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrartiempos.h
+	"SDL.h"
+
+1561313190 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrartiempos.cpp
+	"AdministrarTiempos.h"
+
+1560311465 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrarmonedas.cpp
+	"AdministrarMonedas.h"
+
+1562341346 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrarmonedas.h
+	"Mapa.h"
+	"Lista.h"
+	"Moneda.h"
+	"SDL.h"
+	"Tren.h"
+	<stdlib.h>
+
+1562337917 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrarbandidos.h
+	"Mapa.h"
+	"Lista.h"
+	"Bandido.h"
+	"SDL.h"
+	"Tren.h"
+	"AdministrarEventos.h"
+	<stdlib.h>
+
+1562337872 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\administrarbandidos.cpp
+	"AdministrarBandidos.h"
+
+1338781930 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\pila.cpp
+	"Pila.h"
+
+1338753066 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\pila.h
+
+1562347405 source:d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\archivos.cpp
+	"archivos.h"
+
+1562347524 d:\archivo de programa\codeblocks\proyectos\ayedtp_clashofunla\archivos.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	"Caja.h"
+

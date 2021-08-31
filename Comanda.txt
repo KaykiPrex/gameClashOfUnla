@@ -1,0 +1,3 @@
+oro;3
+plata;0
+bronce;0

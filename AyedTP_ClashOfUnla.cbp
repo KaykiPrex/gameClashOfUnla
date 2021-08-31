@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AyedTP_ClashOfUnla" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AyedTP_ClashOfUnla" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AyedTP_ClashOfUnla" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AdministrarBandidos.cpp" />
+		<Unit filename="AdministrarBandidos.h" />
+		<Unit filename="AdministrarEventos.cpp" />
+		<Unit filename="AdministrarEventos.h" />
+		<Unit filename="AdministrarMonedas.cpp" />
+		<Unit filename="AdministrarMonedas.h" />
+		<Unit filename="AdministrarTiempos.cpp" />
+		<Unit filename="AdministrarTiempos.h" />
+		<Unit filename="Bandido.cpp" />
+		<Unit filename="Bandido.h" />
+		<Unit filename="Caja.cpp" />
+		<Unit filename="Caja.h" />
+		<Unit filename="Cola.cpp" />
+		<Unit filename="Cola.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="Lista.cpp" />
+		<Unit filename="Lista.h" />
+		<Unit filename="Mapa.h" />
+		<Unit filename="Mina.cpp" />
+		<Unit filename="Mina.h" />
+		<Unit filename="Moneda.cpp" />
+		<Unit filename="Moneda.h" />
+		<Unit filename="Pila.cpp" />
+		<Unit filename="Pila.h" />
+		<Unit filename="Textura.cpp" />
+		<Unit filename="Textura.h" />
+		<Unit filename="Tren.cpp" />
+		<Unit filename="Tren.h" />
+		<Unit filename="Vagon.cpp" />
+		<Unit filename="Vagon.h" />
+		<Unit filename="archivos.cpp" />
+		<Unit filename="archivos.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
